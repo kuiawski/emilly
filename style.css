@@ -20,6 +20,6 @@ header {
 
 .nav-item:hover {
 cursor: pointer;
-background-color:#ffffff;
-color:#6200ff;
+background-color:#000000;
+color:#ffffff;
 }
