@@ -17,3 +17,9 @@ header {
     text-transform: uppercase;
     justify-content: center;
 }
+
+.nav-item:hover {
+cursor: pointer;
+background-color:aliceblue;
+color: black;
+}
